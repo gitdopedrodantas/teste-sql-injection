@@ -10,11 +10,11 @@ namespace OWASPTop10.Repository
 
         }
 
-        public async Task<int> GetIdByNameAsync(string nome)
+        public async Task<object> GetLastNameByNameAsync(string nome)
         {
             try
             {
-                return await QueryFirstOrDefaultAsync<int>($"SELECT Id FROM SQLInjectionTest WHERE PrimeiroNome='{nome}';");
+                return await QueryFirstOrDefaultAsync<object>($"SELECT UltimoNome FROM SQLInjectionTest WHERE PrimeiroNome='{nome}';");
             }
             catch (Exception e)
             {

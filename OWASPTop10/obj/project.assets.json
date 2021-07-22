@@ -669,11 +669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro Dantas\\source\\repos\\OWASPTop10\\OWASPTop10\\OWASPTop10.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro Dantas\\Desktop\\teste-sql-injection\\OWASPTop10\\OWASPTop10.csproj",
       "projectName": "OWASPTop10",
-      "projectPath": "C:\\Users\\Pedro Dantas\\source\\repos\\OWASPTop10\\OWASPTop10\\OWASPTop10.csproj",
+      "projectPath": "C:\\Users\\Pedro Dantas\\Desktop\\teste-sql-injection\\OWASPTop10\\OWASPTop10.csproj",
       "packagesPath": "C:\\Users\\Pedro Dantas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro Dantas\\source\\repos\\OWASPTop10\\OWASPTop10\\obj\\",
+      "outputPath": "C:\\Users\\Pedro Dantas\\Desktop\\teste-sql-injection\\OWASPTop10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro Dantas\\AppData\\Roaming\\NuGet\\NuGet.Config",
